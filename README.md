@@ -1,6 +1,6 @@
 ### Portfolio
 
-View my portfolio page to see the links that are outside of GitHub
+View my [portfolio page](https://swiftexpat.github.io) to review my projects that are more than code: webinars, videos, and compiled web core demos.
 
 <!--
 **SwiftExpat/SwiftExpat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
