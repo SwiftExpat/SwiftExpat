@@ -1,4 +1,6 @@
-### Hi there 👋
+### Portfolio
+
+View my portfolio page to see the links that are outside of GitHub
 
 <!--
 **SwiftExpat/SwiftExpat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
