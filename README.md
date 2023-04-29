@@ -2,9 +2,15 @@
 
 View my [portfolio page](https://swiftexpat.github.io) to review my projects that are more than code: webinars, videos, and compiled web core demos.
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swiftexpat&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swiftexpat&theme=github) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swiftexpat&theme=github) 
+
 <!--
 **SwiftExpat/SwiftExpat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Chart Ideas from : https://github.com/GuvaCode/GuvaCode/blob/main/README.md
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
